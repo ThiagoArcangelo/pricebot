@@ -1,0 +1,17 @@
+{
+  "name": "robo-scrapping",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "robot": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "puppeteer": "^17.1.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
