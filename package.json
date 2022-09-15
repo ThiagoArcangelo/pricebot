@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "express": "^4.18.1",
-    "puppeteer": "^17.1.3"
+    "puppeteer": "^17.1.3",
+    "readline-sync": "^1.4.10"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
